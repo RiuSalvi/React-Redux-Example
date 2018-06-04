@@ -1,3 +1,5 @@
+Credits to [Youtube link](https://www.youtube.com/watch?v=93p3LxR9xfM&t=3188s).
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
